@@ -67,7 +67,7 @@ php 5.4+, curl_exec, file_get_contents, json_decode, openssl_encrypt
 - 修复搜索分页的 BUG
 - 去除超时检测
 
-#### v2.21 `2017/5/19`
+#### v2.21 `2017/5/19` `123456`
 - 临时修复 API 失效问题
 - 新增歌曲超时检测，播放超时则自动播放下一首
 - 新增设置数据传输方式(GET/POST)
